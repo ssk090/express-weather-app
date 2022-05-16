@@ -1,0 +1,16 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "this is a simple weather project made using express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shiv",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
